@@ -3,8 +3,6 @@
 
 📚 I'm currently pursuing Computer Science in UCL
 
-💌 Reach me at juliagsy@gmail.com
-
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julia-goh-3750b11b9) 
 
